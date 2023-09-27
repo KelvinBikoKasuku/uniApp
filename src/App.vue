@@ -1,10 +1,7 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
 import TheWelcome from './components/TheWelcome.vue'
-import LandingPage from './components/LandingPage.vue'
-import LoginVue from './components/LoginVue.vue'
-import SignupVue from './components/SignupVue.vue'
-import AboutusVue from './components/AboutusVue.vue'
+
 
 </script>
 
@@ -18,12 +15,7 @@ import AboutusVue from './components/AboutusVue.vue'
   </header>
 
   <main>
-    <div class="wrapper">
-      <LandingPage/>
-      <LoginVue/>
-      <SignupVue/>
-      <AboutusVue/>
-    </div>
+    
   </main>
 </template>
 
